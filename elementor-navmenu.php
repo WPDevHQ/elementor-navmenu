@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: NavMenu Addon For Elementor
- * Description: A custom navbar addon for Elementor - any theme and template.
+ * Description: A custom navbar addon for the Elementor Page Builder plugin - any theme and template.
  * Plugin URI:  https://wpdevhq.com/
  * Version:     1.0.0
  * Author:      WPDevHQ
